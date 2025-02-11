@@ -13,7 +13,7 @@ The **Virus Diagnosis Game** is a simple console-based quiz game where players d
 - **Java** (JDK 8 or later)
 - **Scanner Class** for user input
 
-##Contributors
+## Contributors
 ### Joshua Pineda:
 - **Main Branch:** Consolidated all changes into the main branch to ensure code stability and coherence.
 ### Timothy Patawaran:
