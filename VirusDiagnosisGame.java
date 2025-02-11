@@ -30,6 +30,14 @@ public class VirusDiagnosisGame {
 
         // Loop through each symptom
       forLoop f = new forLoop();
+      additionalQuestions a = new additionalQuestions();
+      
+      //additional questions that can be used 
+      String [] additionalSymptoms = a.additionalSymptoms;
+      String [] additionalVirus = a.additionalViruses;
+      char [] additionalCorrectAnswers = a.additionalCorrectAnswers;
+     
+      //calling forLoop method 
       f.loop(symptoms, viruses, correctAnswers, score);
 
         System.out.println("Game Over! Your score: " + score + "/" + symptoms.length);
