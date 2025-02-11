@@ -13,6 +13,14 @@ The **Virus Diagnosis Game** is a simple console-based quiz game where players d
 - **Java** (JDK 8 or later)
 - **Scanner Class** for user input
 
+##Contributors
+### Joshua Pineda:
+- **Main Branch:** Consolidated all changes into the main branch to ensure code stability and coherence.
+### Timothy Patawaran:
+- **forLoop Branch:** Enhanced the efficiency of the For Loop function to improve performance.
+### Agamveer Kamboj:
+- **additionalQuestions Branch:** Expanded the game's content by adding additional questions.
+
 ## How to Run
 1. Ensure you have **Java installed** on your system.
 2. Copy the `VirusDiagnosisGame.java` file into your Java project or desired directory.
