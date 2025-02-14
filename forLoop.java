@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+// For Loop Function 
 public class forLoop {
     
         Scanner scanner = new Scanner(System.in);
